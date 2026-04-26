@@ -1,0 +1,2 @@
+#macro TILE_NONE 0
+#macro TILE_ROCK_FLOOR 77
